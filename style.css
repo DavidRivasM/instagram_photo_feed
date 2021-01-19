@@ -1,0 +1,95 @@
+header {
+    background-color: white;
+    margin-top: -20px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-bottom: black 1px solid;
+}
+
+body {
+    background-color: gray;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    text-align: center;
+}
+.post_1 {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border: black 1px solid;
+}
+.post_1 img {
+    height: 300px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.post_1 span {
+    position: relative;
+    right: -500px;
+    top: -70px;
+}
+
+.post_2 span {
+    position: relative;
+    right: -500px;
+    top: -70px;
+}
+
+.post_3 span {
+    position: relative;
+    right: -500px;
+    top: -70px;
+}
+
+.post_4 span {
+    position: relative;
+    right: -500px;
+    top: -70px;
+}
+
+.post_2 {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border: black 1px solid;
+}
+.post_2 img {
+    height: 300px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.post_3 {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border: black 1px solid;
+}
+.post_3 img {
+    height: 300px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.post_4 {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    border: black 1px solid;
+}
+.post_4 img {
+    height: 300px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
